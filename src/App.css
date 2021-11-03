@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(131, 131, 131);
+}
+
+.App{
+  text-align: center;
+  padding: 20px;
+}
+
+/* .App input{
+
+} */
+
+.App .task-holder{
+  height: 200px;
+  width: 250px;
+  border: 1px solid black;
+  margin: 20px auto;
+  background: white;
+}
+
+.App .task-holder{
+  padding: 5px 20px;
+  text-align: left;
+}
+
+.done{
+  text-decoration: line-through;
+}
